@@ -9,3 +9,5 @@
 5. [基于用户的协同过滤算法](./5-user-based-collaborative-filtering.ipynb)
 6. [基于物品的协同过滤算法](./6-item-based-collaborative-filtering.ipynb)
 7. [隐语义模型](./7-recsys-lfm.ipynb)
+8. [冷启动问题](./8-cold-start.ipynb)
+9. [利用用户标签数据](./9-user-tag-data.ipynb)
